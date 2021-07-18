@@ -1,2 +1,2 @@
 # certificate
-![] (/img/HTML_and_CSS.png)
+![] (../img/HTML_and_CSS.png)
